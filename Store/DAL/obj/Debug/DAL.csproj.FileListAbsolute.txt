@@ -1,0 +1,20 @@
+D:\AvanzaSVN\EmiratesTransport\branches\Phase2.0\Implementation artifacts\eLearning\DAL\bin\Debug\DAL.dll
+D:\AvanzaSVN\EmiratesTransport\branches\Phase2.0\Implementation artifacts\eLearning\DAL\bin\Debug\DAL.pdb
+D:\AvanzaSVN\EmiratesTransport\branches\Phase2.0\Implementation artifacts\eLearning\DAL\bin\Debug\Common.dll
+D:\AvanzaSVN\EmiratesTransport\branches\Phase2.0\Implementation artifacts\eLearning\DAL\bin\Debug\Encryption.dll
+D:\AvanzaSVN\EmiratesTransport\branches\Phase2.0\Implementation artifacts\eLearning\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\AvanzaSVN\EmiratesTransport\branches\Phase2.0\Implementation artifacts\eLearning\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\AvanzaSVN\EmiratesTransport\branches\Phase2.0\Implementation artifacts\eLearning\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\AvanzaSVN\EmiratesTransport\branches\Phase2.0\Implementation artifacts\eLearning\DAL\bin\Debug\XCrypt.dll
+D:\AvanzaSVN\EmiratesTransport\branches\Phase2.0\Implementation artifacts\eLearning\DAL\bin\Debug\Common.pdb
+D:\AvanzaSVN\EmiratesTransport\branches\Phase2.0\Implementation artifacts\eLearning\DAL\obj\Debug\DAL.dll
+D:\AvanzaSVN\EmiratesTransport\branches\Phase2.0\Implementation artifacts\eLearning\DAL\obj\Debug\DAL.pdb
+D:\AvanzaSVN\EmiratesTransport\branches\Phase2.0\Implementation artifacts\eLearning\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\vijay.kumar\documents\visual studio 2015\Projects\BillPayment\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\vijay.kumar\documents\visual studio 2015\Projects\BillPayment\DAL\obj\Debug\DAL.dll
+C:\Users\vijay.kumar\documents\visual studio 2015\Projects\BillPayment\DAL\obj\Debug\DAL.pdb
+C:\Users\vijay.kumar\documents\visual studio 2015\Projects\BillPayment\DAL\bin\Debug\DAL.dll
+C:\Users\vijay.kumar\documents\visual studio 2015\Projects\BillPayment\DAL\bin\Debug\DAL.pdb
+C:\Users\vijay.kumar\documents\visual studio 2015\Projects\BillPayment\DAL\bin\Debug\Common.dll
+C:\Users\vijay.kumar\documents\visual studio 2015\Projects\BillPayment\DAL\bin\Debug\XCrypt.dll
+C:\Users\vijay.kumar\documents\visual studio 2015\Projects\BillPayment\DAL\bin\Debug\Common.pdb
